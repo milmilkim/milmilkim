@@ -7,7 +7,8 @@
 자바스크립트 좋아합니다.
   
 프론트엔드도 백엔드도 좋아요.
-  
+
+https://sori-kim-portfolio.tistory.com/
   
 </div>
 
