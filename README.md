@@ -5,15 +5,6 @@
 
 
 <br/>
-<br/>
-
-<!-- Animated Typing Effect -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=안녕하세요!+김소리입니다+👋;Hello!+I'm+Sori+Kim+👋" alt="Typing SVG" />
-</h1>
-
-<br/>
-
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,6 +46,7 @@ EMAIL: sorikim9867@gmail.com
 
 ---
 </div>
+
 
 
 
